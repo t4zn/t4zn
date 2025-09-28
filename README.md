@@ -54,7 +54,7 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Codezun%20IDE&width=250&height=120" alt="Codezun Banner"/>
 </a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>  
+### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Codezun  
 
 **3D Online IDE**  
 ⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
