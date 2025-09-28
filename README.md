@@ -46,18 +46,18 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
 <table align="center">
 <tr>
 
-<!-- Codezun -->
+<!-- 3D Multimodal Chatbot -->
 <td align="center" width="250">
 
-### 🌐 Codezun  
-<a href="https://codezun.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Codezun%20IDE&width=250&height=120" alt="Codezun Banner"/>
+### 🌐 3D Multimodal Chatbot  
+<a href="https://taizun.site target="_blank">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%203D Multimodal Chatbot%20IDE&width=250&height=120" alt="3D Multimodal Chatbot Banner"/>
 </a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>  
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/3D Multimodal Chatbot.gif" width="100%" alt="3D Multimodal Chatbot Demo"/>  
 
 **3D Online IDE**  
-⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
+⚡ 3D chatbot + video and image generation in one smart AI.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
