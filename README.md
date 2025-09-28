@@ -1,7 +1,8 @@
 <!-- Animated GitHub Profile README -->
 
+<!-- Header Banner with Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=👀%20Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Hi%20👋,%20I'm%20Taizun&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <!-- Typing SVG -->
