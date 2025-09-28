@@ -44,10 +44,14 @@
 
 <table align="center">
 <tr>
+
+<!-- Codezun -->
 <td align="center" width="250">
 
 ### 🌐 Codezun  
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-FF6EC4?style=for-the-badge&logo=vercel&logoColor=white)](https://codezun.vercel.app)  
+<a href="https://codezun.vercel.app" target="_blank">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Codezun%20IDE&width=250&height=120" alt="Codezun Banner"/>
+</a>  
 
 <img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>  
 
@@ -57,10 +61,14 @@
 **Stack:** `Next.js` • `Three.js` • `Judge0` • `Vercel`
 
 </td>
+
+<!-- Pyzun -->
 <td align="center" width="250">
 
 ### 🐍 Pyzun  
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-7873f5?style=for-the-badge&logo=python&logoColor=white)](https://pyzun.vercel.app)  
+<a href="https://pyzun.vercel.app" target="_blank">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🐍%20Pyzun%20IDE&width=250&height=120" alt="Pyzun Banner"/>
+</a>  
 
 <img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>  
 
@@ -70,10 +78,14 @@
 **Stack:** `Next.js` • `Judge0` • `Docker` • `Vercel`
 
 </td>
+
+<!-- Taizun AI -->
 <td align="center" width="250">
 
 ### 🤖 Taizun AI  
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-F9A825?style=for-the-badge&logo=rocket&logoColor=white)](https://taizunai.vercel.app)  
+<a href="https://taizunai.vercel.app" target="_blank">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🤖%20Taizun%20AI&width=250&height=120" alt="Taizun AI Banner"/>
+</a>  
 
 <img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>  
 
@@ -83,21 +95,27 @@
 **Stack:** `Next.js` • `LLM` • `Three.js` • `Vercel`
 
 </td>
+
+<!-- Project X -->
 <td align="center" width="250">
 
 ### 🛠️ Project X  
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourproject.vercel.app)  
+<a href="https://yourproject.vercel.app" target="_blank">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🛠️%20Project%20X&width=250&height=120" alt="Project X Banner"/>
+</a>  
 
 <img src="https://raw.githubusercontent.com/taizun/demo-assets/main/projectx.gif" width="100%" alt="Project X Demo"/>  
 
 **Custom Project**  
-🛠️ Replace with your **next app/project showcase**.  
+🛠️ Replace with your **next showcase app**.  
 
 **Stack:** `Next.js` • `API` • `Vercel`
 
 </td>
+
 </tr>
 </table>
+
 
 
 ---
