@@ -50,7 +50,7 @@
   </a>  
   <br/>
   <a href="https://drapels.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taizun&repo=Codezun&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4zn&repo=Cero&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" />
   </a>
   <br/>
   <p align="center">
