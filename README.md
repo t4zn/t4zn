@@ -58,7 +58,12 @@
 **3D Online IDE**  
 ⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
 
-**Stack:** `Next.js` • `Three.js` • `Judge0` • `Vercel`
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Judge0-FF6EC4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 </td>
 
@@ -75,7 +80,13 @@
 **Python IDE**  
 🐍 Sleek online Python IDE with **Docker + Judge0 runtime**.  
 
-**Stack:** `Next.js` • `Judge0` • `Docker` • `Vercel`
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Judge0-FF6EC4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 </td>
 
@@ -92,7 +103,12 @@
 **3D Multimodal Chat**  
 🚀 3D interface + **LLM multimodal chat** app.  
 
-**Stack:** `Next.js` • `LLM` • `Three.js` • `Vercel`
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-AI?style=for-the-badge&logo=openai&logoColor=white&color=412991"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 </td>
 
@@ -109,7 +125,11 @@
 **Custom Project**  
 🛠️ Replace with your **next showcase app**.  
 
-**Stack:** `Next.js` • `API` • `Vercel`
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-0288D1?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 </td>
 
