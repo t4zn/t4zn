@@ -13,11 +13,37 @@
 ---
 
 ## ⚡ About Me  
-I’m a B.Tech CSE (AI) student and Founder of Drapels, an AI-powered platform helping people get job-ready with roadmaps, interview prep, and live learning.
+I’m a B.Tech CSE (AI) student and Founder of **Drapels**, an AI-powered platform helping people get job-ready with **roadmaps, interview prep, and live learning**.  
 
-Instead of just studying AI, I’ve been building with it — from LLMs and RAG to full-stack apps using Next.js, Firebase, and Vercel.
+I focus on **building first, learning later** — from LLMs and RAG to full-stack apps using **Next.js, Firebase, and Vercel**.  
 
-I’m scaling Drapels and open to collaborations, partnerships, and growth opportunities in AI and startups.
+I’m scaling Drapels and open to **collaborations, partnerships, and growth opportunities** in AI and startups.  
+
+---
+
+## 🚀 Startup: Drapels  
+
+<p align="center">
+  <a href="https://drapels.com" target="_blank">
+    <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Drapels%20-%20AI%20Career%20Ecosystem&width=600&height=120" alt="Drapels Banner"/>
+  </a>
+</p>
+
+**About Drapels**  
+- AI-driven **career guidance platform**  
+- Interactive **roadmaps** for tech roles  
+- **Live learning sessions** and mentorship  
+- **Interview prep**, resume guidance, and career acceleration  
+
+**Founder:** Taizun — passionate about **AI, full-stack, and startups**, actively building products that help people **learn faster and grow careers**.  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full-Stack-1DA1F2?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -34,7 +60,6 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t4zn&theme=radical&hide_border=true&background=0D1117&ring=FF6EC4&fire=FF6EC4&currStreakLabel=FF6EC4" height="165"/>
 </p>
 
-<!-- Animated Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
@@ -48,19 +73,19 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 
 <!-- Drapels -->
 <td align="center" width="250">
-
-### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Drapels 
+### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Drapels
 <a href="https://drapels.com" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Drapels%20IDE&width=250&height=120" alt="Drapels Banner"/>
-</a>  
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Drapels&width=250&height=120" alt="Drapels Banner"/>
+</a>
+
+<img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="100%" alt="Drapels Preview"/>
 
 **AI Career Ecosystem**  
-⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI-Purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Judge0-FF6EC4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
@@ -68,16 +93,14 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 
 <!-- Pyzun -->
 <td align="center" width="250">
-
-### 🐍 Pyzun  
+### 🐍 Pyzun
 <a href="https://pyzun.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🐍%20Pyzun%20IDE&width=250&height=120" alt="Pyzun Banner"/>
-</a>  
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Pyzun&width=250&height=120" alt="Pyzun Banner"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>  
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>
 
 **Python IDE**  
-🐍 Sleek online Python IDE with **Docker + Judge0 runtime**.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -90,16 +113,14 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 
 <!-- Taizun AI -->
 <td align="center" width="250">
-
-### 🤖 Taizun AI  
+### 🤖 Taizun AI
 <a href="https://taizunai.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🤖%20Taizun%20AI&width=250&height=120" alt="Taizun AI Banner"/>
-</a>  
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=TaizunAI&width=250&height=120" alt="Taizun AI Banner"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>  
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>
 
 **3D Multimodal Chat**  
-🚀 3D interface + **LLM multimodal chat** app.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -112,16 +133,14 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 
 <!-- Project X -->
 <td align="center" width="250">
-
-### 🛠️ Project X  
+### 🛠️ Project X
 <a href="https://yourproject.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🛠️%20Project%20X&width=250&height=120" alt="Project X Banner"/>
-</a>  
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=ProjectX&width=250&height=120" alt="Project X Banner"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/projectx.gif" width="100%" alt="Project X Demo"/>  
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/projectx.gif" width="100%" alt="Project X Demo"/>
 
 **Custom Project**  
-🛠️ Replace with your **next showcase app**.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -133,7 +152,6 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 
 </tr>
 </table>
-
 
 ---
 
@@ -149,4 +167,4 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
-</p> make this much more visually appealing with everything haing live animations
+</p>
