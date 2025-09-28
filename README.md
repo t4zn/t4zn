@@ -29,9 +29,10 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taizun&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taizun&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taizun&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6EC4&icon_color=FF6EC4" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taizun&theme=radical&hide_border=true&background=0D1117&ring=FF6EC4&fire=FF6EC4&currStreakLabel=FF6EC4" height="165"/>
 </p>
+
 <!-- Animated Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
