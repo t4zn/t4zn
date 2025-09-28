@@ -41,17 +41,23 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
+
 <table align="center">
 <tr>
+
+<!-- Codezun -->
 <td align="center" width="250">
 
-### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Drapels
-<a href="https://drapels.com" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Drapels%20IDE&width=250&height=120" alt="Drapels Banner"/>
-</a>
+### 🌐 Codezun  
+<a href="https://codezun.vercel.app" target="_blank">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Codezun%20IDE&width=250&height=120" alt="Codezun Banner"/>
+</a>  
 
-**AI Career Ecosystem** ⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>  
+
+**3D Online IDE**  
+⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -59,38 +65,44 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
   <img src="https://img.shields.io/badge/Judge0-FF6EC4?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
 </td>
 
+<!-- Pyzun -->
 <td align="center" width="250">
 
-### 🐍 Pyzun
+### 🐍 Pyzun  
 <a href="https://pyzun.vercel.app" target="_blank">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🐍%20Pyzun%20IDE&width=250&height=120" alt="Pyzun Banner"/>
-</a>
+</a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>  
 
-**Python IDE** 🐍 Sleek online Python IDE with **Docker + Judge0 runtime**.
+**Python IDE**  
+🐍 Sleek online Python IDE with **Docker + Judge0 runtime**.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Judge0-FF6EC4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
 </td>
-</tr>
-<tr>
+
+<!-- Taizun AI -->
 <td align="center" width="250">
 
-### 🤖 Taizun AI
+### 🤖 Taizun AI  
 <a href="https://taizunai.vercel.app" target="_blank">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🤖%20Taizun%20AI&width=250&height=120" alt="Taizun AI Banner"/>
-</a>
+</a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>  
 
-**3D Multimodal Chat** 🚀 3D interface + **LLM multimodal chat** app.
+**3D Multimodal Chat**  
+🚀 3D interface + **LLM multimodal chat** app.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -98,25 +110,30 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
   <img src="https://img.shields.io/badge/LLM-AI?style=for-the-badge&logo=openai&logoColor=white&color=412991"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
 </td>
 
+<!-- Project X -->
 <td align="center" width="250">
 
-### 🛠️ Project X
+### 🛠️ Project X  
 <a href="https://yourproject.vercel.app" target="_blank">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🛠️%20Project%20X&width=250&height=120" alt="Project X Banner"/>
-</a>
+</a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/projectx.gif" width="100%" alt="Project X Demo"/>
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/projectx.gif" width="100%" alt="Project X Demo"/>  
 
-**Custom Project** 🛠️ Replace with your **next showcase app**.
+**Custom Project**  
+🛠️ Replace with your **next showcase app**.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-0288D1?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
 </td>
+
 </tr>
 </table>
 
