@@ -45,15 +45,17 @@
 <p align="center">
   
   <!-- Codezun -->
-  <a href="https://github.com/YOURUSERNAME/Codezun">
+  <a href="https://your-codezun-live-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Codezun-3D%20Online%20IDE-ff6ec4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" />
   </a>  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=Codezun&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" />
+  <a href="https://your-codezun-live-link.com" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taizun&repo=Codezun&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" />
+  </a>
   <br/>
   <p align="center">
     🌐 A futuristic **3D web IDE** powered by Judge0 & Three.js.  
-    ⚡ Live execution, terminal streaming, and modern VS Code–like UI.  
+    ⚡ Live execution, real-time terminal streaming, and modern VS Code–like UI.  
     <br/>
     <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
     <img src="https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs" />
@@ -63,11 +65,13 @@
   <hr/>
 
   <!-- Pyzun -->
-  <a href="https://github.com/YOURUSERNAME/Pyzun">
+  <a href="https://your-pyzun-live-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Pyzun-Python%20IDE-7873f5?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
   </a>  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=Pyzun&theme=radical&hide_border=true&bg_color=0D1117&title_color=7873f5&icon_color=7873f5" />
+  <a href="https://your-pyzun-live-link.com" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taizun&repo=Pyzun&theme=radical&hide_border=true&bg_color=0D1117&title_color=7873f5&icon_color=7873f5" />
+  </a>
   <br/>
   <p align="center">
     🐍 A **minimal, mobile-friendly Python IDE**.  
@@ -81,11 +85,13 @@
   <hr/>
 
   <!-- Taizun AI -->
-  <a href="https://github.com/YOURUSERNAME/TaizunAI">
+  <a href="https://your-taizunai-live-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Taizun%20AI-Multimodal%20Chat-f9a825?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" />
   </a>  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=TaizunAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=f9a825&icon_color=f9a825" />
+  <a href="https://your-taizunai-live-link.com" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taizun&repo=TaizunAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=f9a825&icon_color=f9a825" />
+  </a>
   <br/>
   <p align="center">
     🤖 A **3D multimodal AI assistant**.  
@@ -98,7 +104,6 @@
   </p>
 
 </p>
-
 
 ---
 
