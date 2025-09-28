@@ -46,17 +46,17 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 <table align="center">
 <tr>
 
-<!-- Codezun -->
+<!-- Drapels -->
 <td align="center" width="250">
 
-### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Codezun 
-<a href="https://codezun.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Codezun%20IDE&width=250&height=120" alt="Codezun Banner"/>
+### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Drapels 
+<a href="https://drapels.com" target="_blank">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Drapels%20IDE&width=250&height=120" alt="Drapels Banner"/>
 </a>  
 
-### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Codezun  
+### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Drapels  
 
-**3D Online IDE**  
+**AI Career Ecosystem**  
 ⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
 
 <p align="center">
