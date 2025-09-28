@@ -45,11 +45,11 @@
 <p align="center">
   
   <!-- Codezun -->
-  <a href="https://your-codezun-live-link.com" target="_blank">
+  <a href="https://drapels.com" target="_blank">
     <img src="https://img.shields.io/badge/Codezun-3D%20Online%20IDE-ff6ec4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" />
   </a>  
   <br/>
-  <a href="https://your-codezun-live-link.com" target="_blank">
+  <a href="https://drapels.com" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=taizun&repo=Codezun&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6ec4&icon_color=ff6ec4" />
   </a>
   <br/>
