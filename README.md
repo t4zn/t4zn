@@ -49,7 +49,7 @@ I’m scaling Drapels and open to collaborations, partnerships, and growth oppor
 <!-- Codezun -->
 <td align="center" width="250">
 
-### 🌐 Codezun  
+### <img src="https://raw.githubusercontent.com/t4zn/t4zn/main/assets/favicon.PNG" width="22" /> Codezun 
 <a href="https://codezun.vercel.app" target="_blank">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Codezun%20IDE&width=250&height=120" alt="Codezun Banner"/>
 </a>  
