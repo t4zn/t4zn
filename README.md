@@ -44,49 +44,56 @@
 
 <table align="center">
 <tr>
-<td align="center" width="300">
+<td align="center" width="250">
 
 ### 🌐 Codezun  
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-FF6EC4?style=for-the-badge&logo=vercel&logoColor=white)](https://codezun.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-FF6EC4?style=for-the-badge&logo=vercel&logoColor=white)](https://codezun.vercel.app)  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>  
 
 **3D Online IDE**  
-⚡ A futuristic IDE with real-time Judge0 backend, 3D animations (Three.js), and seamless execution.  
+⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
 
-**Tech Stack:**  
-`Next.js` • `Three.js` • `Judge0` • `Vercel`
+**Stack:** `Next.js` • `Three.js` • `Judge0` • `Vercel`
 
 </td>
-<td align="center" width="300">
+<td align="center" width="250">
 
 ### 🐍 Pyzun  
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-7873f5?style=for-the-badge&logo=python&logoColor=white)](https://pyzun.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-7873f5?style=for-the-badge&logo=python&logoColor=white)](https://pyzun.vercel.app)  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>  
 
 **Python IDE**  
-🐍 A sleek online Python IDE with Docker-based Judge0, real-time terminal output, and minimal VS Code–style UI.  
+🐍 Sleek online Python IDE with **Docker + Judge0 runtime**.  
 
-**Tech Stack:**  
-`Next.js` • `Judge0` • `Docker` • `Vercel`
+**Stack:** `Next.js` • `Judge0` • `Docker` • `Vercel`
 
 </td>
-</tr>
-
-<tr>
-<td align="center" width="300">
+<td align="center" width="250">
 
 ### 🤖 Taizun AI  
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-F9A825?style=for-the-badge&logo=rocket&logoColor=white)](https://taizunai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-F9A825?style=for-the-badge&logo=rocket&logoColor=white)](https://taizunai.vercel.app)  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>  
 
 **3D Multimodal Chat**  
-🚀 An experimental AI chat app with 3D UI, multimodal input (text + image), and real-time responses.  
+🚀 3D interface + **LLM multimodal chat** app.  
 
-**Tech Stack:**  
-`Next.js` • `LLM` • `Three.js` • `Vercel`
+**Stack:** `Next.js` • `LLM` • `Three.js` • `Vercel`
+
+</td>
+<td align="center" width="250">
+
+### 🛠️ Project X  
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourproject.vercel.app)  
+
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/projectx.gif" width="100%" alt="Project X Demo"/>  
+
+**Custom Project**  
+🛠️ Replace with your **next app/project showcase**.  
+
+**Stack:** `Next.js` • `API` • `Vercel`
 
 </td>
 </tr>
