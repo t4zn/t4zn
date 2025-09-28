@@ -47,69 +47,61 @@
 
 <!-- Codezun -->
 <td align="center" width="250">
-
-### 🌐 Codezun  
 <a href="https://codezun.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Codezun%20IDE&width=250&height=120" alt="Codezun Banner"/>
-</a>  
+  
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=⚡%20Codezun%20IDE&width=250&height=150" alt="Codezun Banner"/>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>  
+</a>  
 
 **3D Online IDE**  
 ⚡ Futuristic IDE with **Three.js animations** + **Judge0 backend**.  
 
-**Stack:** `Next.js` • `Three.js` • `Judge0` • `Vercel`
+**Stack:** `Next.js` • `Three.js` • `Judge0` • `Vercel`  
 
 </td>
 
 <!-- Pyzun -->
 <td align="center" width="250">
-
-### 🐍 Pyzun  
 <a href="https://pyzun.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🐍%20Pyzun%20IDE&width=250&height=120" alt="Pyzun Banner"/>
-</a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>  
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=🐍%20Pyzun%20IDE&width=250&height=150" alt="Pyzun Banner"/>  
+
+</a>  
 
 **Python IDE**  
 🐍 Sleek online Python IDE with **Docker + Judge0 runtime**.  
 
-**Stack:** `Next.js` • `Judge0` • `Docker` • `Vercel`
+**Stack:** `Next.js` • `Judge0` • `Docker` • `Vercel`  
 
 </td>
 
 <!-- Taizun AI -->
 <td align="center" width="250">
-
-### 🤖 Taizun AI  
 <a href="https://taizunai.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🤖%20Taizun%20AI&width=250&height=120" alt="Taizun AI Banner"/>
-</a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>  
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=🤖%20Taizun%20AI&width=250&height=150" alt="Taizun AI Banner"/>  
+
+</a>  
 
 **3D Multimodal Chat**  
 🚀 3D interface + **LLM multimodal chat** app.  
 
-**Stack:** `Next.js` • `LLM` • `Three.js` • `Vercel`
+**Stack:** `Next.js` • `LLM` • `Three.js` • `Vercel`  
 
 </td>
 
 <!-- Project X -->
 <td align="center" width="250">
-
-### 🛠️ Project X  
 <a href="https://yourproject.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🛠️%20Project%20X&width=250&height=120" alt="Project X Banner"/>
-</a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/projectx.gif" width="100%" alt="Project X Demo"/>  
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=🛠️%20Project%20X&width=250&height=150" alt="Project X Banner"/>  
+
+</a>  
 
 **Custom Project**  
 🛠️ Replace with your **next showcase app**.  
 
-**Stack:** `Next.js` • `API` • `Vercel`
+**Stack:** `Next.js` • `API` • `Vercel`  
 
 </td>
 
