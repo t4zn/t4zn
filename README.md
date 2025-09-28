@@ -42,22 +42,56 @@
 
 ## 🚀 Featured Projects  
 
-<p align="center">
-  <!-- Codezun -->
-  <a href="https://codezun.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Codezun-3D%20Online%20IDE-FF6EC4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=20232A">
-  </a>
+<table align="center">
+<tr>
+<td align="center" width="300">
 
-  <!-- Pyzun -->
-  <a href="https://pyzun.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🐍 Pyzun-Python%20IDE-7873f5?style=for-the-badge&logo=python&logoColor=white&labelColor=20232A">
-  </a>
+### 🌐 Codezun  
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-FF6EC4?style=for-the-badge&logo=vercel&logoColor=white)](https://codezun.vercel.app)
 
-  <!-- Taizun AI -->
-  <a href="https://taizunai.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🤖 Taizun%20AI-3D%20Multimodal%20Chat-F9A825?style=for-the-badge&logo=rocket&logoColor=white&labelColor=20232A">
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/codezun.gif" width="100%" alt="Codezun Demo"/>
+
+**3D Online IDE**  
+⚡ A futuristic IDE with real-time Judge0 backend, 3D animations (Three.js), and seamless execution.  
+
+**Tech Stack:**  
+`Next.js` • `Three.js` • `Judge0` • `Vercel`
+
+</td>
+<td align="center" width="300">
+
+### 🐍 Pyzun  
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-7873f5?style=for-the-badge&logo=python&logoColor=white)](https://pyzun.vercel.app)
+
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/pyzun.gif" width="100%" alt="Pyzun Demo"/>
+
+**Python IDE**  
+🐍 A sleek online Python IDE with Docker-based Judge0, real-time terminal output, and minimal VS Code–style UI.  
+
+**Tech Stack:**  
+`Next.js` • `Judge0` • `Docker` • `Vercel`
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+
+### 🤖 Taizun AI  
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-F9A825?style=for-the-badge&logo=rocket&logoColor=white)](https://taizunai.vercel.app)
+
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>
+
+**3D Multimodal Chat**  
+🚀 An experimental AI chat app with 3D UI, multimodal input (text + image), and real-time responses.  
+
+**Tech Stack:**  
+`Next.js` • `LLM` • `Three.js` • `Vercel`
+
+</td>
+</tr>
+</table>
+
 
 ---
 
