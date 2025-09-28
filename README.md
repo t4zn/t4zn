@@ -60,11 +60,12 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
 ⚡ 3D chatbot + video and image generation in one smart AI.  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Judge0-FF6EC4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spline-FF5A5F?style=for-the-badge&logo=spline&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-34A853?style=for-the-badge&logo=gemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
 
 </td>
 
