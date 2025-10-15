@@ -1,8 +1,7 @@
 <!-- Animated GitHub Profile README -->
-
-<!-- Header Banner with Animation -->
+<!-- 🌟 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Hi%20👋,%20I'm%20Taizun&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hey%20👋,%20I'm%20Taizun&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Engineering%20Student%20%7C%20AI%20Builder%20%7C%20Code%20Crafter&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- Typing SVG -->
