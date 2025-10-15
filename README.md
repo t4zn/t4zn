@@ -1,22 +1,7 @@
 <p align="center">
-  <span style="
-    font-size: 45px; 
-    font-weight: bold; 
-    background: linear-gradient(90deg, #ff6ec4, #7873f5); 
-    -webkit-background-clip: text; 
-    -webkit-text-fill-color: transparent; 
-    animation: wave 3s infinite linear;">
-    Hi 👋, I'm Taizun
-  </span>
+  <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_iwmd6pyr.json"  background="transparent"  speed="1"  style="width: 600px; height: 220px;"  loop  autoplay></lottie-player>
 </p>
-
-<style>
-@keyframes wave {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
 <!-- Typing SVG -->
 <p align="center">
