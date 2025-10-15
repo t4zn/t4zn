@@ -1,6 +1,22 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hi 👋, I'm Taizun" width="600"/>
+  <span style="
+    font-size: 45px; 
+    font-weight: bold; 
+    background: linear-gradient(90deg, #ff6ec4, #7873f5); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    animation: wave 3s infinite linear;">
+    Hi 👋, I'm Taizun
+  </span>
 </p>
+
+<style>
+@keyframes wave {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 <!-- Typing SVG -->
 <p align="center">
