@@ -1,8 +1,6 @@
-<!-- Header Banner with Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Hi%20👋,%20I'm%20Taizun&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hi 👋, I'm Taizun" width="600"/>
 </p>
-
 
 <!-- Typing SVG -->
 <p align="center">
