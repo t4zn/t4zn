@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ascii.svg" width="860" alt="t4zn"/>
+<img src="./assets/asci.svg" width="860" alt="t4zn"/>
 
 <br/>
 
