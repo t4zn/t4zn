@@ -25,9 +25,20 @@ I build fast, test on real users, and ship what works. Right now that's<br>
 
 <img src="./assets/hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python   typescript   javascript   react   node   fastapi   postgres   docker   git   linux</samp>
-
-<!-- Replace the stack above with your actual technologies -->
+<p align="left">
+  <img src="./assets/stack/nextjs.svg" width="24" height="24" alt="Next.js" title="Next.js"/> &nbsp;&nbsp;
+  <img src="./assets/stack/react.svg" width="24" height="24" alt="React" title="React"/> &nbsp;&nbsp;
+  <img src="./assets/stack/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript"/> &nbsp;&nbsp;
+  <img src="./assets/stack/javascript.svg" width="24" height="24" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;
+  <img src="./assets/stack/python.svg" width="24" height="24" alt="Python" title="Python"/> &nbsp;&nbsp;
+  <img src="./assets/stack/nodejs.svg" width="24" height="24" alt="Node.js" title="Node.js"/> &nbsp;&nbsp;
+  <img src="./assets/stack/fastapi.svg" width="24" height="24" alt="FastAPI" title="FastAPI"/> &nbsp;&nbsp;
+  <img src="./assets/stack/postgresql.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL"/> &nbsp;&nbsp;
+  <img src="./assets/stack/tailwind.svg" width="24" height="24" alt="Tailwind CSS" title="Tailwind CSS"/> &nbsp;&nbsp;
+  <img src="./assets/stack/docker.svg" width="24" height="24" alt="Docker" title="Docker"/> &nbsp;&nbsp;
+  <img src="./assets/stack/git.svg" width="24" height="24" alt="Git" title="Git"/> &nbsp;&nbsp;
+  <img src="./assets/stack/linux.svg" width="24" height="24" alt="Linux" title="Linux"/>
+</p>
 
 <img src="./assets/hd-projects.svg" width="620" alt="projects"/>
 
