@@ -29,8 +29,8 @@ I build fast, test on real users, and ship what works. Right now that's<br>
 
 <img src="./assets/hd-projects.svg" width="620" alt="projects"/>
 
-**[PROJECT 1](https://github.com/YOUR-USERNAME/PROJECT-1)**  ·  <samp>TECH 1, TECH 2</samp><br>
-[Short description of project 1. What does it do?]
+**[medinotes.in](https://medinotes.in)**  ·  <samp>WEB, AI</samp><br>
+A platform for university students to access notes, previous year questions (PYQs), and AI study tools.
 
 **[PROJECT 2](https://github.com/YOUR-USERNAME/PROJECT-2)**  ·  <samp>TECH 1, TECH 2</samp><br>
 [Short description of project 2. What does it do?]
