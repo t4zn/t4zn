@@ -15,12 +15,11 @@
 
 <img src="./assets/hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
+> CS student at Medi-Caps University, Indore.<br>
 > Small, sharp tools over big vague ideas.
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/t4zn/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+I build fast, test on real users, and ship what works. Right now that's<br>
+[medinotes.in](https://medinotes.in) — a platform for students to access notes, PYQs, and AI-powered study tools.
 
 <img src="./assets/hd-stack.svg" width="620" alt="stack"/>
 
