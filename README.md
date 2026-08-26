@@ -2,7 +2,7 @@
 
 <img src="./assets/asci.svg" width="520" alt="t4zn"/>
 
-<img src="./assets/year.svg" width="520" alt="The last year"/>
+<img src="./assets/year.svg" width="620" alt="The last year"/>
 
 <br/>
 
