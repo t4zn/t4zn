@@ -15,12 +15,12 @@
 
 <img src="./assets/hd-about.svg" width="620" alt="about"/>
 
-> [YOUR ROLE / STUDIES / LOCATION]<br>
-> [YOUR SHORT PERSONAL TAGLINE]
+> CS student at San Francisco State, in the SF Bay Area.<br>
+> Small, sharp tools over big vague ideas.
 
-I build [WHAT YOU BUILD / WHAT YOU'RE INTERESTED IN]. Right now I'm working on<br>
-[MAIN PROJECT](https://github.com/YOUR-USERNAME/YOUR-REPO) — [SHORT DESCRIPTION]. Also<br>
-exploring [INTEREST / TECHNOLOGY / AREA] and [ANOTHER INTEREST].
+I build fast, test on real users, and kill what doesn't work. Right now that's<br>
+[autobroll](https://github.com/t4zn/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
+deep into markets: Pine Script indicators, backtesting, on-chain data.
 
 <img src="./assets/hd-stack.svg" width="620" alt="stack"/>
 
