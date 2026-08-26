@@ -3,7 +3,7 @@
     .title {
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
       font-size: 18px;
-      font-weight: 700;
+      font-weight: 400;
       fill: #24292f;
       letter-spacing: -0.2px;
     }
@@ -21,5 +21,5 @@
     }
   </style>
   <text x="0" y="19" class="title">about</text>
-  <line x1="72" y1="13" x2="620" y2="13" class="line"/>
+  <line x1="68" y1="13" x2="620" y2="13" class="line"/>
 </svg>
