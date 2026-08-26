@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="40" viewBox="0 0 620 40" fill="none">
+  <style>
+    .label { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; fill: #6e7681; }
+    .val { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; font-weight: 700; fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      .label { fill: #8b949e; }
+      .val { fill: #f0f6fc; }
+    }
+  </style>
+  <text x="0" y="24" class="label">current streak <tspan class="val">2 days</tspan> &nbsp;·&nbsp; longest streak <tspan class="val">19 days</tspan></text>
+</svg>

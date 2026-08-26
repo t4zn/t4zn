@@ -2,6 +2,8 @@
 
 <img src="./assets/asci.svg" width="520" alt="t4zn"/>
 
+<img src="./assets/year.svg" width="520" alt="The last year"/>
+
 <br/>
 
 <a href="https://t4z.in" target="_blank"><img src="./assets/website.svg" width="20" height="20" alt="Website"/></a> &nbsp;&nbsp;
@@ -48,8 +50,6 @@ A platform for university students to access notes, previous year questions (PYQ
 <img src="./assets/streak.svg" width="620" alt="Current and longest streak"/>
 
 <img src="./assets/langs.svg" width="620" alt="Top languages"/>
-
-<img src="./assets/year.svg" width="620" alt="The last year"/>
 
 </div>
 

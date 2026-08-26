@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="40" viewBox="0 0 620 40" fill="none">
+  <style>
+    .txt { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; fill: #6e7681; }
+    .bold { font-weight: 700; fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      .txt { fill: #8b949e; }
+      .bold { fill: #f0f6fc; }
+    }
+  </style>
+  <text x="0" y="24" class="txt"><tspan class="bold">TypeScript</tspan> 35% &nbsp;·&nbsp; <tspan class="bold">JavaScript</tspan> 16% &nbsp;·&nbsp; <tspan class="bold">Python</tspan> 16% &nbsp;·&nbsp; <tspan class="bold">CSS</tspan> 13%</text>
+</svg>
