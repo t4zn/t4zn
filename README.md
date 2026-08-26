@@ -4,10 +4,10 @@
 
 <br/>
 
-[website](https://YOUR-WEBSITE.com)  · 
-[instagram](https://instagram.com/YOUR-USERNAME)  · 
-[linkedin](https://linkedin.com/in/YOUR-USERNAME)  · 
-[email](mailto:YOUR-EMAIL@example.com)
+<a href="https://t4z.in" target="_blank"><img src="./assets/website.svg" width="20" height="20" alt="Website"/></a> &nbsp;&nbsp;
+<a href="https://instagram.com/t4zun" target="_blank"><img src="./assets/instagram.svg" width="20" height="20" alt="Instagram"/></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/taizuns" target="_blank"><img src="./assets/linkedin.svg" width="20" height="20" alt="LinkedIn"/></a> &nbsp;&nbsp;
+<a href="mailto:taizun8@gmail.com"><img src="./assets/email.svg" width="20" height="20" alt="Email"/></a>
 
 </div>
 
