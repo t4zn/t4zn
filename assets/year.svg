@@ -51,7 +51,7 @@
   </style>
 
   <!-- Big contribution count -->
-  <text x="24" y="60" class="bignum">1,991</text>
+  <text x="24" y="60" class="bignum">1,678</text>
   <text x="24" y="86" class="label">contributions in the last year</text>
 
   <!-- Right side stats -->
