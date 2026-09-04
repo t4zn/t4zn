@@ -7,5 +7,5 @@
       .bold { fill: #f0f6fc; }
     }
   </style>
-  <text x="0" y="24" class="txt"><tspan class="bold">TypeScript</tspan> 38% &nbsp;·&nbsp; <tspan class="bold">JavaScript</tspan> 16% &nbsp;·&nbsp; <tspan class="bold">Python</tspan> 16% &nbsp;·&nbsp; <tspan class="bold">CSS</tspan> 12%</text>
+  <text x="0" y="24" class="txt"><tspan class="bold">TypeScript</tspan> 39% &nbsp;·&nbsp; <tspan class="bold">JavaScript</tspan> 15% &nbsp;·&nbsp; <tspan class="bold">Python</tspan> 15% &nbsp;·&nbsp; <tspan class="bold">CSS</tspan> 12%</text>
 </svg>
