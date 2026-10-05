@@ -7,5 +7,5 @@
       .val { fill: #f0f6fc; }
     }
   </style>
-  <text x="0" y="24" class="label">current streak <tspan class="val">2 days</tspan> &nbsp;·&nbsp; longest streak <tspan class="val">19 days</tspan></text>
+  <text x="0" y="24" class="label">current streak <tspan class="val">3 days</tspan> &nbsp;·&nbsp; longest streak <tspan class="val">19 days</tspan></text>
 </svg>
